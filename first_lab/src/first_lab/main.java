@@ -8,9 +8,9 @@ public class main
     {
    Scanner in = new Scanner(System.in);
   
-    System.out.println("Введите число начала промежутка");
+    System.out.println("Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ РЅР°С‡Р°Р»Р° РїСЂРѕРјРµР¶СѓС‚РєР°");
     int a = in.nextInt();
-    System.out.println("До какого числа вывести промежуток?");
+    System.out.println("Р”Рѕ РєР°РєРѕРіРѕ С‡РёСЃР»Р° РІС‹РІРµСЃС‚Рё РїСЂРѕРјРµР¶СѓС‚РѕРє?");
     int b = in.nextInt();
       for (int i=a; i <= b; i++)
       {
